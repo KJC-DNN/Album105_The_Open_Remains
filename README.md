@@ -15,8 +15,8 @@ Eight field-report songs. V-9 Breaking News operative on the open, 29 June–6 J
 8. The Sweep Is His — The Open Remains
 
 # Published
-GitHub: https://github.com/KJC-DNN/Album105_The_Open_Remains/releases/tag/105.0.0
-Archive: https://archive.org/details/album-105-the-open-remains-main-cover.jpg
-Zenodo: https://doi.org/10.5281/zenodo.23664292
+1. GitHub: https://github.com/KJC-DNN/Album105_The_Open_Remains/releases/tag/105.0.0
+2. Archive: https://archive.org/details/album-105-the-open-remains-main-cover.jpg
+3. Zenodo: https://doi.org/10.5281/zenodo.23664292
 
 # All Glory to Lord Jesus Christ.
