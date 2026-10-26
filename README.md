@@ -14,6 +14,26 @@ Eight field-report songs. V-9 Breaking News operative on the open, 29 June–6 J
 7. The Cosmic Veil Is Not Lord — The Whole Is His (9601–9700)
 8. The Sweep Is His — The Open Remains
 
+## The Open Remains- Instrumentals for Album 105
+
+Fourteen instrumental tracks for Album 105. No vocals. Void claims fall. The open remains. Quiet worship. Open sky, empty wooden cross. Not a replacement for the vocal album.
+
+# Track list:
+1. The Open Remains
+2. The Void Fades
+3. The Light Is His
+4. The Ebon Lifts
+5. The Sky Is His
+6. The Singularity Quiets
+7. The Horizon Is His
+8. The Rift Closes
+9. The Ground Is His
+10. The Cataclysm Ends
+11. The Sky Holds
+12. The Dominion Falls
+13. The Whole Is His
+14. The Sweep Is His
+
 # Published
 1. GitHub: https://github.com/KJC-DNN/Album105_The_Open_Remains/releases/tag/105.0.0
 2. Archive: https://archive.org/details/album-105-the-open-remains-main-cover.jpg
